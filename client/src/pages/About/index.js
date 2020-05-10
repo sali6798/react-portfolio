@@ -2,10 +2,6 @@ import React, { useEffect } from "react";
 import "./style.css"
 
 function About() {
-    useEffect(() => {
-        document.title = "About";
-    }, []);
-
     return (
         <div id="about-container">
             <h2>About me</h2>
