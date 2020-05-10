@@ -1,0 +1,39 @@
+h2, h5, p, .navbar, .navbar-brand, .nav-link, .card-img-overlay  {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 100px;
+    font-family: 'Raleway', sans-serif;
+    background-image: url("https://i.pinimg.com/736x/08/08/fb/0808fb305aa8d90cb6379305062089ee.jpg");
+    background-color: rgba(92, 160, 134, 0.1); /* background color if image fails */
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 40px;
+    padding: 15px;
+    width: 65%;
+    background: #ffffff;
+    /* puts shadow on all sides of the container */
+    box-shadow: 
+        8px 6px 6px -2px rgb(49, 119, 163),
+        -4px -3px 6px -2px rgb(49, 119, 163);
+}
+
+/* On extra small screens and less */
+@media screen and (max-width: 575px) {
+    .container {
+        width: 95%;
+    }
+}

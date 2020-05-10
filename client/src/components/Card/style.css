@@ -1,0 +1,38 @@
+.Portfolio .card {
+    max-width: 350px;
+}
+
+.Portfolio .card-img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.Portfolio .card-img-overlay {
+    top: unset;
+    bottom: 110px;
+    width: 100%;
+    padding: 5px 0;
+    background-color: rgb(103, 194, 250);
+    color: black;
+}
+
+.Portfolio .card > .list-group:last-child .list-group-item:last-child {
+    border-radius: 0;
+}
+
+.Portfolio .list-group a:hover {
+    text-decoration: none;
+}
+
+.Portfolio .list-group-item {
+    padding: 10px;
+}
+
+.Portfolio a .list-group-item:hover {
+    background-color: rgb(216, 215, 215);
+}
+
+.Portfolio .list-group-item:first-child {
+    border: 0;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}

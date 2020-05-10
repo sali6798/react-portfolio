@@ -1,0 +1,52 @@
+.navbar {
+    background: rgba(135, 206, 250, 0.8);
+    box-shadow: 0 6px 6px -6px lightskyblue;
+}
+
+.brand-container {
+    padding: 10px;
+    margin-left: 5vw;
+    background-color: white;
+    border: rgb(103, 194, 250) solid 2px;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    border: rgb(103, 194, 250) solid 2px;
+    background-color: lightskyblue;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    padding: 0 5px;
+}
+
+.nav {
+    margin-right: 5vw;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+.nav-link {
+    color: rgb(3, 109, 223);
+    font-weight: bold;
+}
+
+/* On extra small screens and less */
+@media screen and (max-width: 575px) {
+    .brand-container {
+        width: 100%;
+        background-color: lightskyblue;
+        border: none;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .navbar-brand {
+        border: none;
+    }
+
+    .nav {
+        margin-right: 0;
+    }
+}
