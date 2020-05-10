@@ -1,0 +1,49 @@
+[
+    {
+        "img": "assets/frustration.png",
+        "name": "Frustration.",
+        "site": "https://sali6798.github.io/memory-game",
+        "repo": "https://github.com/sali6798/memory-game"
+    },
+    {
+        "img": "assets/quiz.png",
+        "name": "General Knowledge Quiz",
+        "site": "https://sali6798.github.io/code-quiz",
+        "repo": "https://github.com/sali6798/code-quiz"
+    },
+    {
+        "img": "assets/scheduler.png",
+        "name": "Work Day Scheduler",
+        "site": "https://sali6798.github.io/work-day-scheduler",
+        "repo": "https://github.com/sali6798/work-day-scheduler"
+    },
+    {
+        "img": "assets/weather.png",
+        "name": "Weather Dashboard",
+        "site": "https://sali6798.github.io/weather-dashboard",
+        "repo": "https://github.com/sali6798/weather-dashboard"
+    },
+    {
+        "img": "assets/employee-summary.png",
+        "name": "Employee Summary",
+        "repo": "https://github.com/sali6798/template-engine"
+    },
+    {
+        "img": "assets/burgz.png",
+        "name": "All the Burgz",
+        "site": "https://alltheburgz.herokuapp.com/",
+        "repo": "https://github.com/sali6798/burgers"
+    },
+    {
+        "img": "assets/thoughts-taker.png",
+        "name": "Thoughts Taker",
+        "site": "https://thoughts-taker.herokuapp.com/",
+        "repo": "https://github.com/sali6798/note-taker"
+    },
+    {
+        "img": "assets/quiz-panda.png",
+        "name": "Quiz Panda",
+        "site": "https://quizpanda.herokuapp.com/",
+        "repo": "https://github.com/sali6798/quiz-panda"
+    }
+]
