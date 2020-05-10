@@ -33,7 +33,7 @@ function Form() {
     }
 
     return (
-        <form>
+        <form onSubmit={handleSubmit}>
             {/* Required name and email user input */}
             <div className="form-group">
                 <label htmlFor="nameInput">Name</label>
@@ -49,7 +49,7 @@ function Form() {
                 <textarea className="form-control" id="textArea" name="message" rows="5" value={formObject.message} onChange={handleInputChange} required></textarea>
             </div>
             <div className="text-center">
-                <button type="submit" className="btn form-group" onClick={handleSubmit}>Submit</button>
+                <button type="submit" className="btn form-group" >Submit</button>
             </div>
             <div className={formObject.success ? "alert alert-success" : "d-none"} role="alert">
                 <p>Message has been sent!</p>
