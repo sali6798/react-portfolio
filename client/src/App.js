@@ -14,13 +14,9 @@ function App() {
         <Navbar />
         <div className="container">
           <Switch>
-            <Route exact path={["/", "/about"]} component={About} />
             <Route exact path={"/portfolio"} component={Portfolio} />
             <Route exact path={"/contact"} component={Contact} />
-            {/* <Route exact path={["/", "/books"]} component={Books} />
-            <Route exact path="/books/:id" component={Detail} /> */}
-            {/* <Route exact path="*" component={NoMatch} /> */}
-            {/* <Route component={NoMatch} /> */}
+            <Route exact path={"*"} component={About} />
           </Switch>
         </div>
         <Footer />
