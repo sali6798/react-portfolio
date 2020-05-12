@@ -1,7 +1,8 @@
-.contact-info {
+.Contact .contact-info {
     margin-bottom: 20px;
 }
 
-.fas, .fab {
-    padding-right: 10px;
+.Contact img {
+    width: 20px;
+    margin-right: 10px;
 }
