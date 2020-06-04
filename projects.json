@@ -45,5 +45,11 @@
         "name": "Quiz Panda",
         "site": "https://quizpanda.herokuapp.com/",
         "repo": "https://github.com/sali6798/quiz-panda"
+    },
+    {
+        "img": "assets/MGR.png",
+        "name": "MGR",
+        "site": "https://mgr-talent.herokuapp.com/",
+        "repo": "https://github.com/sali6798/mgr-react"
     }
 ]

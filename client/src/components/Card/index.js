@@ -16,6 +16,10 @@ function Card(props) {
                         ? <a href={props.site} target="_blank" rel="noreferrer noopener"><li className="list-group-item">Website</li></a> 
                         : <li className="list-group-item">CLI Application</li>
                     }
+                    {/* {props.server
+                        ? <a href={props.site} target="_blank" rel="noreferrer noopener"><li className="list-group-item">Website</li></a> 
+                        : <a href={props.repo} target="_blank" rel="noreferrer noopener"><li className="list-group-item">Repository</li></a>
+                    } */}
                     <a href={props.repo} target="_blank" rel="noreferrer noopener"><li className="list-group-item">Repository</li></a>
                 </ul>
             </div>
