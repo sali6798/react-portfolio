@@ -27,7 +27,8 @@ function Portfolio() {
             {/* Row 2 */}
             <div className="row">
                 <div className="col-12 text-right mb-3">
-                    <a href="assets/Shaidee_Alingcastre_Resume.pdf" className="mr-3" target="_blank">View Resume ></a>
+                    {/* <a href="assets/Shaidee_Alingcastre_Resume.pdf" className="mr-3" target="_blank">View Resume ></a> */}
+                    <a href="https://drive.google.com/file/d/1LuUmL7vQty1KJ63WturDmk98i-uTWour/view?usp=sharing" className="mr-3" target="_blank">View Resume ></a>
                 </div>
             </div>
             <div className="row">
