@@ -10,9 +10,7 @@ function About() {
                 <img src="assets/305x305.jpg" className="img-fluid" alt="Shaidee Alingcastre" />
             </div>
 
-            <p>Hi, I'm Shaidee! I'm 23 years old, and am currently based in Seattle, WA after moving overseas from Sydney, Australia. I graduated from The University of Sydney with a degree in Bachelors of Science (Computer Science and Information Systems) and am now in the midst of learning web development from the UW Coding Boot Camp.</p>
-            <br />
-            <p>I enjoy nature and just being outside and taking in the scenery, which made moving to Seattle an easy move. I also have a love for cooking (and eating), reading, and I can play the Violin and mostly play the Piano.</p>
+            <p>Full Stack Web Developer who is a fast and willing learner, proven through the recent completion of a three month Full Stack Web Development Bootcamp from the University of Washington. Adding new skills such as JavaScript, HTML, CSS and the MERN stack to those learned in my Bachelor of Science (Computer Science and Information Systems) degree. A known problem solver people come to, willing to help anyone debug their problems. Working on multiple projects with different teams, my aim has been to develop applications that deliver maximum customer value in terms of overall functionality, ease of use, and mobile responsiveness, which resulted in the winning of the best UI/UX for each project. I’m excited to grow my skills in a fast-paced, collaborative environment to help create solutions for the best user experiences. </p>
         </div>
     );
 }
