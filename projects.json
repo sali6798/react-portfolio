@@ -51,5 +51,11 @@
         "name": "MGR",
         "site": "https://mgr-talent.herokuapp.com/",
         "repo": "https://github.com/sali6798/mgr-react"
+    },
+    {
+        "img": "assets/books.png",
+        "name": "Not Google Books",
+        "site": "https://notgooglebooks.herokuapp.com/",
+        "repo": "https://github.com/sali6798/google-books-search"
     }
 ]
