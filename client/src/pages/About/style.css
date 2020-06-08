@@ -1,7 +1,3 @@
-#about-container {
-    overflow: auto;
-}
-
-.profile-img-container {
-    max-width: 200px;
+#about-container span {
+    font-weight: bold;
 }
